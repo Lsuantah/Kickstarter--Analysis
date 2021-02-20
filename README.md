@@ -10,11 +10,17 @@ Descriptive statistical tools were apllied to provide trend analysis of the Data
 
 ![Subcategory Statistics](https://user-images.githubusercontent.com/75961117/108610919-a16dea80-73a7-11eb-8a86-85fbe7dd1daa.png)
 
+
+Pivot Tables were used to "Parent category"
+
+![Pivote table](https://user-images.githubusercontent.com/75961117/108611070-d9c1f880-73a8-11eb-8509-e77dd1c1c533.png)
+
 ###The Outcome/results of the Analysis
 From the analysis of the Data, it was clear that some of the campaign were successful while others were not. 
 The most popular and therefore successful campaign based on the charts was "Theater".
 The subcategory "plays" was the most successful. 
 
+Significant success in the months of May and Jun
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/75961117/108610947-e3972c00-73a7-11eb-809f-5e9aa23962ee.png)
 
 

@@ -16,6 +16,8 @@ The most popular and therefore successful campaign based on the charts was "Thea
 The subcategory "plays" was the most successful. 
 
 
+
+
 ###Limitation od data
 The Kickstarter data did not consider other funding options
 There were no visibility into why some champaigns failed or were canceled.

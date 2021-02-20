@@ -12,6 +12,7 @@ From the analysis of the Data, it was clear that some of the campaign were succe
 The most popular and therefore successful campaign based on the charts was "Theater".
 The subcategory "plays" was the most successful. 
 
+
 ###Limitation od data
 The Kickstarter data did not consider other funding options
 There were no visibility into why some champaigns failed or were canceled.

@@ -7,7 +7,7 @@ Descriptive statistical tools were apllied to provide trend analysis of the Data
 ###The Outcome/results of the Analysis
 From the analysis of the Data, it was clear that 
 
-![](Descriptive Statistics.png)
+![](images/DescriptiveStatistics.png)
 
 
 

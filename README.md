@@ -26,7 +26,8 @@ Significant success in the months of May and Jun
 
 ![Outcomes_vs_Goals png](https://user-images.githubusercontent.com/75961117/108610983-15a88e00-73a8-11eb-9a0a-0996f03abdf7.png)
 
-###Limitation od data
+###Limitation of data
+
 The Kickstarter data did not consider other funding options
 There were no visibility into why some champaigns failed or were canceled.
 

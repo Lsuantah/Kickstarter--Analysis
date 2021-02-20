@@ -18,6 +18,8 @@ The subcategory "plays" was the most successful.
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/75961117/108610947-e3972c00-73a7-11eb-809f-5e9aa23962ee.png)
 
 
+![Outcomes_vs_Goals png](https://user-images.githubusercontent.com/75961117/108610983-15a88e00-73a8-11eb-9a0a-0996f03abdf7.png)
+
 ###Limitation od data
 The Kickstarter data did not consider other funding options
 There were no visibility into why some champaigns failed or were canceled.

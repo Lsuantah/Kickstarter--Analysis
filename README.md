@@ -15,7 +15,7 @@ From the analysis of the Data, it was clear that some of the campaign were succe
 The most popular and therefore successful campaign based on the charts was "Theater".
 The subcategory "plays" was the most successful. 
 
-
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/75961117/108610947-e3972c00-73a7-11eb-809f-5e9aa23962ee.png)
 
 
 ###Limitation od data

@@ -5,9 +5,22 @@ Excel tools ncluding fomulas were used to create important values to incorporate
 Descriptive statistical tools were apllied to provide trend analysis of the Data. The Mean, Median and Standard Deviation of the data gives us an idea of the spread of the data. 
 
 ###The Outcome/results of the Analysis
-From the analysis of the Data, it was clear that 
+From the analysis of the Data, it was clear that some of the campaign were successful while others were not. 
+The most popular and therefore successful campaign based on the charts was "Theater".
+The subcategory "plays" was the most successful. 
 
-![](images/DescriptiveStatistics.png)
+###Limitation od data
+The Kickstarter data did not consider other funding options
+There were no visibility into why some champaigns failed or were canceled.
+
+###Challenges encountered during the project.
+Difficulty correcting formulas errors, especially, Countifs functions.
+
+
+
+
+
+
 
 
 

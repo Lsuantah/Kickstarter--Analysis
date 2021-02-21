@@ -4,15 +4,16 @@ The main goal of this project is to help analyze crowd funding campaign data to 
 
 ##Trends Analysis on Kickstarter Data
 
-Excel tools ncluding fomulas were used to create important values to incorporate into the data analysis. The data was formated to extract certain fields for the analysis. Some data fields were not readable and had to be converted into conforming formats. Pivot tables and Charts were used to visualize important fields.
-Descriptive statistical tools were apllied to provide trend analysis of the Data. The Mean, Median and Standard Deviation of the data gives us an idea of the spread of the data. 
+Excel tools including fomulas were used to create important values to incorporate into the data analysis. The data was formated to extract certain fields for the analysis. Some data fields were not readable and had to be converted into conforming formats. Pivot tables and Charts were used to visualize important fields.
+Descriptive statistical tools were apllied to provide trend analysis of the Data. The Mean, Median and Standard Deviation of the data gives us an idea of the spread of the data.
+
 ![Descriptive Statistics](https://user-images.githubusercontent.com/75961117/108610889-55bb4100-73a7-11eb-834f-9db4850fb073.png)
 
 
 ![Subcategory Statistics](https://user-images.githubusercontent.com/75961117/108610919-a16dea80-73a7-11eb-8a86-85fbe7dd1daa.png)
 
 
-Pivot Tables were used to "Parent category"
+Pivot Tables were used to filter"Parent category"
 
 ![Pivote table](https://user-images.githubusercontent.com/75961117/108611070-d9c1f880-73a8-11eb-8509-e77dd1c1c533.png)
 
@@ -21,7 +22,7 @@ From the analysis of the Data, it was clear that some of the campaign were succe
 The most popular and therefore successful campaign based on the charts was "Theater".
 The subcategory "plays" was the most successful. 
 
-Significant success in the months of May and Jun
+Significant success for "Theater" in the months of May and Jun
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/75961117/108610947-e3972c00-73a7-11eb-809f-5e9aa23962ee.png)
 
 
